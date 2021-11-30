@@ -4,17 +4,27 @@ Testing new knowledges using React Native.
 ## Run Locally
 
 Clone the project
-```bash git clone https://github.com/ThalesZago/react-calculadora.git" ```
+```bash 
+git clone https://github.com/ThalesZago/react-calculadora.git" 
+```
 
 Go to the root folder
-```bash cd react-calculadora ```
+```bash 
+cd react-calculadora 
+```
 
 Install the modules
-```bash yarn install```
+```bash
+yarn install
+```
 
 Run the project
-```yarn start```
+```bash
+yarn start
+```
 
 To stop the running project, press
-```bash ctrl + c ```
+```bash
+ctrl + c
+```
 
